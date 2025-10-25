@@ -1,4 +1,4 @@
-## LineageOS 一加骁龙8Gen2手机特供KernelSU-Next内核刷机包
+## LineageOS官方主线 一加骁龙8Gen2手机特供KernelSU-Next内核刷机包
 如果你的骁龙8Gen2的一加手机在LineageOS支持主线里,可以直接刷这个内核
 
 ## 目前认证过的LineageOS 23.0可用版本
